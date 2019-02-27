@@ -71,6 +71,7 @@
                      <item>Point cloud creation</item>
                      <item>Mesh generation</item>
                      <item>Texture generation</item>
+                     <item>Orthophoto generation</item>
                   </list>
                </desc>
                <desc xml:lang="en" type="term">
@@ -94,6 +95,7 @@
                   <ref type="tutorial" source="zotero" target="F4ZNGB66"/>
                   <ref type="tutorial" source="zotero" target="GE3IIHCF"/>
                   <ref type="tutorial" source="zotero" target="TUMJ4AP7"/>
+                  <ref type="tutorial" target="https://micmac.ensg.eu/index.php/Accueil"/>
                   <ref type="code"
                        source="github"
                        target="https://github.com/micmacIGN/micmac"/>
