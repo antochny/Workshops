@@ -59,7 +59,14 @@
                         devices and technics, a wide range of data format can be produced. It is
                         therefore crucial to check the content and the structure of the produced
                         files. This verification step can be automatized or carried out by
-                        humans.</desc>
+                        humans.
+                    </list> Some of these steps given as example are listed below :<list>
+                     <item>Cleaning</item>
+                     <item>Subsampling</item>
+                     <item>Decimation</item>
+                     <item>Retopology</item>
+                  </list>
+                 </desc>
                <desc xml:lang="en" type="term">
                   <term type="standards" source="standard_list" key="OBJ"/>
                   <term type="standards" source="standard_list" key="PLY"/>
